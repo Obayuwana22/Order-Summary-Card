@@ -101,6 +101,7 @@ p,
   cursor: pointer;
   outline: none;
   border: none;
+  box-shadow: 0px 10px 30px #908CF1;
 }
 
 .btn:hover{
